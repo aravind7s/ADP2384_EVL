@@ -1608,7 +1608,7 @@
 		(uuid "8ab4f39f-ddee-491c-ab83-1d3bcf7a946d")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/ul_ADP2384ACPZN-R7/CP_24_12_ADI.step"
+	(model "${KIPRJMOD}/PartLibrary/ul_ADP2384ACPZN-R7/CP_24_12_ADI.step"
 		(offset
 			(xyz 0 0 0)
 		)
