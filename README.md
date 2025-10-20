@@ -1,6 +1,6 @@
 # ADP2384_EVL
 
-Hardware design files for a **12 V → 3.3 V @ 4 A** DC-DC buck converter based on the **Analog Devices ADP2384**.
+Hardware design files for a **12 V → 3.3 V @ 4 A** DC-DC buck converter based on the **Analog Devices ADP2384** designed using KiCad.
 
 ---
 
